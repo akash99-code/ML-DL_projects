@@ -21,3 +21,4 @@
 
 ### Deep Learning Projects
   * Cifar10 CNN image classification
+  * Churn Prediction
