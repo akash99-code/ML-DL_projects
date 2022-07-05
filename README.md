@@ -16,6 +16,7 @@
 ### Machine Learning Projects  
   * Breast Cancer Detection
   * Spam Mail Predictions  
+  * Walmart Analysis
   
 
 
